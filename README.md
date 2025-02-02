@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahim-rahmatzada&show_icons=true&locale=en" alt="rahim-rahmatzada" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahim-rahmatzada&" alt="rahim-rahmatzada" /></p>
