@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahim</h1>
-<h3 align="center">Computer Science graduate from City, University of London, awarded First-Class Honours. I’m passionate about solving real-world problems through technology, with experience spanning data visualization, AI, and full-stack development.
+<h3 align="center">Computer Science graduate from City, University of London, awarded First-Class Honours. I’m passionate about solving real-world problems through technology, with experience spanning data visualization, AI, and full-stack development.</h3>
 
-Programming Languages: Python, Java, JavaScript, C#
-Frameworks & Tools: React, Flask, Spring Boot, AWS
-Databases: MySQL, PostgreSQL, MongoDB</h3>
+<h3 align="center">💻 Technical Skills</h3>
+
+<p align="center">
+  <b>Programming Languages:</b> Python, Java, JavaScript, C#<br>
+  <b>Frameworks & Tools:</b> React, Flask, Spring Boot, AWS<br>
+  <b>Databases:</b> MySQL, PostgreSQL, MongoDB
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahim-rahmatzada&label=Profile%20views&color=0e75b6&style=flat" alt="rahim-rahmatzada" /> </p>
 
